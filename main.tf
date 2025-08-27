@@ -120,3 +120,4 @@ resource "aws_route_table_association" "rta4" {
   route_table_id = aws_route_table.rtprivate.id
 }
 
+
